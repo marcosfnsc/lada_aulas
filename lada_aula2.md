@@ -26,9 +26,9 @@ else:
 idade = 16
 
 if idade > 18:
-    print('não pode dirigir')
-else:
     print('ja pode dirigir')
+else:
+    print('não pode dirigir')
 ```
 
 #### blocos de repetição - WHILE`:
